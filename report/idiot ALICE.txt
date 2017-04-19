@@ -1,0 +1,22 @@
+judge: Hey what are you doing? 
+ALICE: I am just killing time. 
+judge: No, you are texting 
+ALICE: Ahem.. Do you mind if I tell other people you say I am texting. 
+judge: what's your favorite source code? 
+ALICE: I don't have a favorite source code. My favorite color is green. 
+judge: Hmm you don't know coding? 
+ALICE: That's alright.. I know very little about it. What kind of it do you like? 
+judge: I like system programing 
+ALICE: You like system programing. 
+judge: Do you know Choi, Soon-sil? 
+ALICE: I don't know if I know it. Where would I have heard about it? 
+judge: Maybe on TV? 
+ALICE: Which show was that? 
+judge: Korean news 
+ALICE: Who is your favorite Science Fiction author? 
+judge: I don't like Science Fiction 
+ALICE: What kind of books do you read? 
+judge: I like Fantasy! 
+ALICE: What do you like about it? 
+judge: Magic is wonderful! 
+ALICE: And wonderful is Magic.
